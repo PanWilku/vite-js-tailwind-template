@@ -1,1 +1,3 @@
-Copy a repo and run: npm run dev to make it work.
+Copy a repo and run: 
+1. npm install vite@latest
+2. npm run dev
